@@ -8,6 +8,10 @@
 	;
 
 	/*
+		This is a multiline comment with no extra *
+	*/
+
+	/*
 	 * This is a multiline comment with a python multiline comment inside:
 	 * '''
 	 *	This is a python multiline
